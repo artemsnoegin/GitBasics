@@ -6,4 +6,4 @@ var test = "commit using XCode"
 
 var clone = false
 
-var newFicha = 123
+var numbers = [1, 2, 3]
