@@ -4,4 +4,4 @@ var greeting = "Hello, GitHub"
 
 var test = "commit using XCode"
 
-var clone = true
+var clone = false
